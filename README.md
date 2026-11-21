@@ -1,6 +1,6 @@
 WELCOME TO MY GITHUB
 
-<h1 align="center">CLAD-CODE</h1><h3 align="center">Software Developer | Problem Solver | Innovator| Save my eyes |Love dark theme</h3><p align="center">
+<h1 align="center">CLAD-CODE</h1><h3 align="center">Software Developer | Problem Solver | Innovator</h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+ideas+into+reality;Learning.+Building.+Innovating." alt="Typing SVG" />
 </p>---
 
